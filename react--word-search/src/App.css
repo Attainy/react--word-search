@@ -1,0 +1,21 @@
+@import "./css/reset.css";
+@import "./css/header.css";
+@import "./css/footer.css";
+@import "./css/admin.css";
+@import "./css/main.css";
+@import "./css/game.css";
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --headerColor : #008080;
+    --formInput : #f6f6f6;
+    --formInputBorder : #e1e1e1;
+    --mainTextColor : #626262;
+}
+
+.main, .admin, .game {
+    padding: 2rem 5rem;
+}

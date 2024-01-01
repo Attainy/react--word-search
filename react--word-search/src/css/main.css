@@ -1,0 +1,25 @@
+.rep {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 0;
+    border: 8px solid var(--headerColor);
+    padding: 0.8rem;
+    gap: 1rem;
+}
+
+.rep img {
+    width: 55%;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    color: var(--mainTextColor);
+}
+
+.intro h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
