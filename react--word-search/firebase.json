@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site" : "word-search-react-c62c2",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

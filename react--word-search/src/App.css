@@ -14,6 +14,15 @@
     --formInput : #f6f6f6;
     --formInputBorder : #e1e1e1;
     --mainTextColor : #626262;
+    --btnColor : #ffc107;
+    --backColor : #FF0000;
+    --borderColor : #e8e8e7;
+
+    --markRed : #ff849a;
+    --markLightBlue : #d3dbf7;
+    --markBlue : #BAC6F4;
+    --markSkin : #ffd1bf;
+    --markGreen : #aed7d5;
 }
 
 .main, .admin, .game {
