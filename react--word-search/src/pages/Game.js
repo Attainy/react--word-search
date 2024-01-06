@@ -15,9 +15,9 @@ function Game() {
         <GridBox givenWords={givenWords}></GridBox>
         <div className="word-list">
           {
-            givenWords.map((val) => {
+            givenWords.map((val, idx) => {
               return (
-                <div data-name={val}>{val}</div>
+                <div data-name={val} key={idx}>{val}</div>
               )
             })
           }

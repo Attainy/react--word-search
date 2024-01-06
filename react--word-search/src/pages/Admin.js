@@ -36,7 +36,7 @@ function Admin() {
           <input type="text" id="subject" required/>
         </div>
 
-        <button type="submit" class="submit-btn">Submit</button>
+        <button type="submit" className="submit-btn">Submit</button>
 
       </form>
     </div>
