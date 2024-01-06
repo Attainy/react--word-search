@@ -2,6 +2,11 @@ import React from 'react'
 
 function GridBox({ givenWords }) {
 
+  let grid_width;
+  let grid_height;
+  let horizon_count;
+  let vertical_count;
+  let diagonal_count;
 
 
   return (
