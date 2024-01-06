@@ -7,6 +7,8 @@ function Game() {
   'CORGI', 'ROTTWEILER', 'PINSCHER', 'DALMATIAN', 
   'SETTER', 'MASTIFF', 'DACHSHUND']
   
+
+  
   return (
     <div className='game'>
       <h2>Subject</h2>
